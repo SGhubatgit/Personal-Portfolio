@@ -192,19 +192,19 @@ body {
   
   .project-card1 img {
     width: 100%;
-    /* height: 100%; */
+    height: 62%;
     border-radius: 10px;
   }
 
   .project-card2 img {
     width: 100%;
-    height: 75%;
+    height: 65%;
     border-radius: 10px;
   }
   
   .project-card3 img {
     width: 100%;
-    height: 75%;
+    height: 65%;
     border-radius: 10px;
   }
   .project-card h3 {
